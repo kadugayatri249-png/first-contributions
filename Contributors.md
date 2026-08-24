@@ -21,6 +21,7 @@
 - [balaji_r](https://github.com/balaji-in-git-hub)
 - Sandy Enriquez
 - Neeraj Kumar
+- Rahul Kumar Raj(NIT'S)
 - Brandon Latimer
 - Rohitha S G
 - [Gabriel Piangers] (https://github.com/gabriel-piangers)
@@ -136,6 +137,7 @@
 [Evan 0818]
 - [Rishita Gupta] (https://github.com/rishitahub)
 - [Zilo]
+- [viu]
 -[Aloka] (https://github.com/aloka-pa)
 - [awlu] (https://github.com/awlu9547)
 [Rohit Patil](https://github.com/JediScout10)
